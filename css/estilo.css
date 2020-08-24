@@ -1,0 +1,126 @@
+body{
+    background:#343a40;
+    color: #fff;
+    padding: 3px;
+}
+
+.barras{
+    background:#252A2E;
+}
+
+.containerFooter{
+    font-size: 15px;
+    color: white;
+}
+
+.container{
+    border: 2px solid black;
+    background:#DFE1E3;
+    border-radius:14px;
+    padding:10px;
+
+}
+
+a{
+    color:#039be5;
+}
+
+article p, article ul, article ol{
+    margin-bottom: 20px;
+
+    color: #666;
+
+    font-size: 14px;
+    text-align: justify;
+    text-decoration: none;
+
+    line-height: 1.5;
+}
+
+article ul{
+    margin-left: 25px;
+    list-style: disc;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #7386D5;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+.contenedor{
+    background:#DFE1E3;
+    border-radius:14px;
+    padding-left: 10px;
+
+}
+
+footer{
+    margin-top: 15px;
+    background:#252A2E;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+li{
+    margin-left: 15px;
+}
+
+#navegacionPrincipal{
+    color: #0097E0;
+}
+
+label{
+    color:#0097E0;
+}
+
+.containerOlvide{
+    border: 1px solid black;
+    border-radius:14px;
+    padding:10px;
+}
+
+.imgLogo{
+    border-radius:360px;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#prestamos{
+    height: 99%;
+    width: auto;
+    border: 1px solid #ddd; 
+    background: #f1f1f1;
+    overflow-y: scroll;
+    
+}
+
+#lista{
+    height: auto;
+    
+}
+
+#itemList{
+    background: #242729;
+    border: 1px solid black;
+    border-radius:5px;
+    padding:10px; 
+    list-style: none;
+}
