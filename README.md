@@ -6,7 +6,7 @@ Sistema Creado para el Curso Programación de Aplicaciones Web con PHP y MySQL.
 
 -Xampp
 
-## Contributors
+## Desarrolladores
 
 - Cejas Claudio A. [About me](https://github.com/CejasClaudioA)
 - Florencia Silva [About me](https://github.com/flopy1993)
